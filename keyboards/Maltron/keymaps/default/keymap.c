@@ -54,10 +54,10 @@ TRNS,   TRNS,TRNS,TRNS,TRNS,TRNS,                                               
   ),
   [_F2] = LAYOUT( /* FN2 layer, mouse key www key and volume key */
 TRNS,   TRNS,TRNS,TRNS,TRNS,TRNS,    KC_TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,     TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
-TRNS,   ACL0,ACL1,ACL2,MPRV,MNXT,    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
+TRNS,   ACL0,ACL1,ACL2,TRNS,TRNS,    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
 TRNS,   BTN1,MS_U,BTN2,WBAK,WFWD,    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
-KC_TRNS,MS_L,TRNS,MS_R,VOLU,VOLD,    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,        TRNS,TRNS,TRNS,TRNS,TRNS,KC_TRNS,  \
-TRNS,   WH_U,MS_D,WH_D,TRNS,TRNS,                                                     TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
+KC_TRNS,MS_L,TRNS,MS_R,VOLD,VOLU,    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS,        TRNS,TRNS,TRNS,TRNS,TRNS,KC_TRNS,  \
+TRNS,   WH_U,MS_D,WH_D,MPRV,MNXT,                                                     TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,     \
         TRNS, TRNS, TRNS,TRNS,                                                             TRNS,TRNS,TRNS,TRNS,          \
                                        TRNS, TRNS, TRNS,       TRNS, TRNS, TRNS,                                         \
 				       TRNS, TRNS, TRNS,       TRNS, TRNS, TRNS,                                         \
